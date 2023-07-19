@@ -1,0 +1,29 @@
+[
+  {
+    "name": "dataset1",
+    "fields": {
+      "key_field1": "string",
+      "timestamp_field1": "long",
+      "string_field1": "string",
+      "double_field1": "double"
+    }
+  },
+  {
+    "name": "dataset2",
+    "fields": {
+      "key_field2": "string",
+      "timestamp_field2": "long",
+      "string_field2": "string",
+      "integer_field2": "integer"
+    }
+  },
+  {
+    "name": "dataset3",
+    "fields": {
+      "key_field3": "string",
+      "timestamp_field3": "long",
+      "string_field3": "string",
+      "long_field3": "long"
+    }
+  }
+]
